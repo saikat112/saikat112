@@ -18,10 +18,15 @@
 
 ### 📌 Featured Projects
 
-#### 🧾 Bill Management System  
-A billing platform for local shops to track daily revenue and generate bills.  
-**Tech:** Spring Boot, React, MySQL, Razorpay API  
-🔗 [View Project](https://github.com/saikat112/bill-management-system)
+### 🧾 Bill Management System
+
+A full-stack billing platform for local shops to generate invoices and track daily sales revenue. Includes real-time stock tracking, category/item management, Razorpay integration for UPI/card payments, and secure role-based access.
+
+**Frontend Repo:** [billing_software_frontend](https://github.com/saikat112/billing_software_frontend)  
+**Backend Repo:** [billing_software_backend](https://github.com/saikat112/billing_software_backend)  
+
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, Razorpay API, Spring Security  
+📦 *Status: In development (not deployed yet)*
 ---
 
 ### 📈 GitHub Stats
