@@ -26,9 +26,7 @@ A billing platform for local shops to track daily revenue and generate bills.
 
 ### 📈 GitHub Stats
 
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikat112&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikat112&layout=compact&theme=radical)
-
+![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikat112&show_icons=true&theme=radical)
 ---
 
 ### 📫 Contact Me
